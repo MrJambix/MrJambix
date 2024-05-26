@@ -12,6 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-007396?style=flat&logo=autoit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 ## Statistics
 
