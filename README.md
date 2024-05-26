@@ -13,6 +13,7 @@
 ![AutoIt](https://img.shields.io/badge/AutoIt-007396?style=flat&logo=autoit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![SQF](https://img.shields.io/badge/SQF-00599C?style=flat&logo=sqf&logoColor=white)
 
 ## Statistics
 
