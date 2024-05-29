@@ -23,4 +23,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJambix&layout=compact)
 
-Most of my work is now done through private repos even though my activity looks very low, I am working on stuff all the time!
