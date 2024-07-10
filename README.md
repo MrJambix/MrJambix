@@ -1,6 +1,8 @@
 # Hello 👋, I'm MrJambix!
 
 -  I am currently working for Decimation Games as an **SQF Developer** for Arma 3.
+-  Azeroth Champions C++ Developer/Owner
+-  Azeroth Champions PHP Developer - https://www.azerothchampions.com
 -  I am currently learning on transfering my C# skills to C++
 
 ## Tools & Languages
@@ -17,7 +19,7 @@
 
 ## Statistics
 
-![MrJambix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJambix&show_icons=true&theme=default&count_private=true)
+![MrJambix's GitHub Stats](https://github-radme-stats.vercel.app/api?username=MrJambix&show_icons=true&cout_private=true&include_all_commits=true&theme=default)
 
 ## Most Used Languages
 
