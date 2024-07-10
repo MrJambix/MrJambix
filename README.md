@@ -18,10 +18,7 @@
 ![SQF](https://img.shields.io/badge/SQF-00599C?style=flat&logo=sqf&logoColor=white)
 
 ## Statistics
-
-![MrJambix's GitHub Stats](https://github-radme-stats.vercel.app/api?username=MrJambix&show_icons=true&cout_private=true&include_all_commits=true&theme=default)
+![MrJambix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJambix&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
 ## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJambix&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJambix&layout=compact&count_private=true)
