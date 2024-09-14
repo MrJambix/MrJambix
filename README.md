@@ -30,6 +30,7 @@
 ## Statistics
 ![MrJambix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJambix&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
+
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJambix&layout=compact&count_private=true)
 
