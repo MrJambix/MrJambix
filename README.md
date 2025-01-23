@@ -1,10 +1,5 @@
 # Hello 👋, I'm MrJambix!
 
--  I am currently working as an **SQF Developer** for Arma 3.
--  Azeroth Champions C++ Developer/Owner
--  Azeroth Champions PHP Developer - https://www.azerothchampions.com
--  I am currently learning on transfering my C# skills to C++
-
 ## Tools & Languages
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
