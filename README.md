@@ -1,4 +1,4 @@
-# Hello 👋, I'm MrJambix!
+# Sometime Life just hit you hard you know..
 
 ## Tools & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -14,20 +14,3 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MrJambix&color=green)
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MrJambix&row=1&no-frame=true)
-
-![MrJambix's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MrJambix&theme=xcode)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrJambix)
-
-## Statistics
-![MrJambix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJambix&show_icons=true&count_private=true&include_all_commits=true&theme=default)
-
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJambix&layout=compact&count_private=true)
-
