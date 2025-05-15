@@ -1,6 +1,4 @@
 # FreeLance/Developer
-![b8032027dd15847ad3dccc411c28053f](https://github.com/user-attachments/assets/fb7959da-a925-46b6-acb2-6d0af1f20fb5)
-
 ## Tools & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
