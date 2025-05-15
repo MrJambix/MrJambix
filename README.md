@@ -1,4 +1,5 @@
-# Sometime Life just hit you hard you know..
+# FreeLance/Developer
+![b8032027dd15847ad3dccc411c28053f](https://github.com/user-attachments/assets/fb7959da-a925-46b6-acb2-6d0af1f20fb5)
 
 ## Tools & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
